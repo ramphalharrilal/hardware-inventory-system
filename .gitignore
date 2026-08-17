@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# IDEs
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.iml
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Local data and secrets
+.env
+credentials*.json
+service-account*.json
+inventory-local.csv
