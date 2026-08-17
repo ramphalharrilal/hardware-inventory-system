@@ -1,0 +1,13 @@
+sku,name,category,brand,cost_price,selling_price,quantity,reorder_level
+HW-1001,Cordless Drill 20V,Power Tools,BuildPro,425.00,599.00,12,4
+HW-1002,Claw Hammer 16 oz,Hand Tools,ForgeLine,42.50,65.00,3,5
+HW-1003,PVC Pipe 1 inch,Plumbing,FlowRight,21.00,32.00,28,10
+HW-1004,Exterior Paint 1 gallon,Paint,ColorShield,165.00,229.00,0,3
+HW-1005,LED Bulb 12W,Electrical,BrightHome,18.75,29.00,40,12
+HW-1006,Adjustable Wrench 10 inch,Hand Tools,ForgeLine,58.00,85.00,7,4
+HW-1007,Wood Screws 2 inch 100 pack,Fasteners,FixMaster,34.00,49.00,15,6
+HW-1008,Garden Hose 50 ft,Garden,GreenWay,110.00,159.00,2,4
+HW-1009,"Combination Pliers, 8 inch",Hand Tools,ForgeLine,61.00,89.00,9,4
+HW-1010,Circuit Breaker 20A,Electrical,SafeCurrent,47.00,72.00,0,3
+HW-1011,Silicone Sealant Clear,Adhesives,SealRight,31.00,48.00,22,8
+HW-1012,Pressure Washer 1800 PSI,Outdoor Equipment,JetWorks,780.00,1099.00,4,2
